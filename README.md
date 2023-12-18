@@ -1,5 +1,9 @@
 # Guia de Gerenciamento de Dependências em .NET Core
 
+## Contextualização
+
+O desenvolvimento de software em .NET Core requer uma compreensão sólida do gerenciamento de dependências, um aspecto essencial para garantir a modularidade, escalabilidade e manutenibilidade das aplicações. Ao longo deste guia, exploraremos os princípios fundamentais e avançados do gerenciamento de dependências em .NET Core, desde a introdução básica até práticas avançadas de controle do tempo de vida dos serviços.
+
 ## Pré-requisitos do Projeto
 
 Antes de começar a explorar os artigos e o código-fonte deste guia, certifique-se de atender aos seguintes requisitos do projeto:
@@ -25,7 +29,7 @@ Certifique-se de manter essas extensões atualizadas para aproveitar as últimas
 
 ## Introdução ao Gerenciamento de Dependências em .NET Core
 
-Este é o primeiro artigo do Guia de Gerenciamento de Dependências em .NET Core. Ele fornece uma introdução abrangente ao gerenciamento de dependências, destacando a evolução desta prática no .NET Core ao longo do tempo. [Leia mais](link-para-o-artigo-1).
+Este é o primeiro artigo do Guia de Gerenciamento de Dependências em .NET Core. Abordaremos a evolução histórica, desde os dias do .NET Framework até a introdução do NuGet no .NET Core 1.0, e exploraremos como o gerenciamento de dependências simplifica o desenvolvimento de software. [Leia mais](link-para-o-artigo-1).
 
 ## Anexo 2: Título A Definir
 
@@ -33,7 +37,7 @@ Este é o segundo artigo do Guia de Gerenciamento de Dependências em .NET Core.
 
 ## Gerenciamento Avançado de Dependências e Tempo de Vida de Serviços em .NET Core
 
-Este é o terceiro artigo do Guia de Gerenciamento de Dependências em .NET Core. Explora práticas avançadas de gerenciamento de dependências e discute o impacto do tempo de vida dos serviços em aplicações .NET Core. [Leia mais](link-para-o-artigo-3).
+Este é o terceiro artigo do Guia de Gerenciamento de Dependências em .NET Core. Exploraremos práticas avançadas de gerenciamento de dependências, incluindo o controle preciso do tempo de vida dos serviços, e discutiremos como esses conceitos podem otimizar o desempenho da aplicação. [Leia mais](link-para-o-artigo-3).
 
 ## Autor
 
