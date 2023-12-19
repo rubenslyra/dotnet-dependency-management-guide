@@ -29,15 +29,15 @@ Certifique-se de manter essas extensões atualizadas para aproveitar as últimas
 
 ## Introdução ao Gerenciamento de Dependências em .NET Core
 
-Este é o primeiro artigo do Guia de Gerenciamento de Dependências em .NET Core. Abordaremos a evolução histórica, desde os dias do .NET Framework até a introdução do NuGet no .NET Core 1.0, e exploraremos como o gerenciamento de dependências simplifica o desenvolvimento de software. [Leia mais](link-para-o-artigo-1).
+Este é o primeiro artigo do Guia de Gerenciamento de Dependências em .NET Core. Abordaremos a evolução histórica, desde os dias do .NET Framework até a introdução do NuGet no .NET Core 1.0, e exploraremos como o gerenciamento de dependências simplifica o desenvolvimento de software. [Leia mais](https://github.com/rubenslyra/dotnet-dependency-management-guide/wiki/Introdu%C3%A7%C3%A3o-ao-Gerenciamento-de-Depend%C3%AAncias-em-.NET-Core).
 
-## Anexo 2: Título A Definir
+## Projeto Aprofundado: Gerenciamento de Dependências em .NET Core
 
-Este é o segundo artigo do Guia de Gerenciamento de Dependências em .NET Core. Aborda [temas específicos] e oferece insights sobre [conteúdo específico]. [Leia mais](link-para-o-artigo-2).
+Este é o segundo artigo do Guia de Gerenciamento de Dependências em .NET Core. Aborda [temas específicos] e oferece insights sobre [conteúdo específico]. [Leia mais](https://github.com/rubenslyra/dotnet-dependency-management-guide/wiki/Projeto-Avan%C3%A7ado-em-.NET-Core:-Gerenciamento-de-Depend%C3%AAncias-e-Tempo-de-Vida-de-Servi%C3%A7os).
 
 ## Gerenciamento Avançado de Dependências e Tempo de Vida de Serviços em .NET Core
 
-Este é o terceiro artigo do Guia de Gerenciamento de Dependências em .NET Core. Exploraremos práticas avançadas de gerenciamento de dependências, incluindo o controle preciso do tempo de vida dos serviços, e discutiremos como esses conceitos podem otimizar o desempenho da aplicação. [Leia mais](link-para-o-artigo-3).
+Este é o terceiro artigo do Guia de Gerenciamento de Dependências em .NET Core. Exploraremos práticas avançadas de gerenciamento de dependências, incluindo o controle preciso do tempo de vida dos serviços, e discutiremos como esses conceitos podem otimizar o desempenho da aplicação. [Leia mais](https://github.com/rubenslyra/dotnet-dependency-management-guide/wiki/Gerenciamento-Avan%C3%A7ado-de-Depend%C3%AAncias-e-Tempo-de-Vida-de-Servi%C3%A7os-em-.NET-Core).
 
 ## Autor
 
